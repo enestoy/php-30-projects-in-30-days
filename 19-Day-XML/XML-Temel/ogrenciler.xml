@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ogrenciler>
+<ogrenci>
+<ogretmen>İsmail</ogretmen>
+<ogrencino>1</ogrencino>
+<ad id="bizimstil">Ahmet</ad>
+<soyad text="center">Yılmaz</soyad>
+<anneAd>Ayşe</anneAd>
+<babaAd>Hüseyin</babaAd>
+<kardessayi>3</kardessayi>
+<sinif>9B</sinif>
+</ogrenci>
+
+<ogrenci>
+<ogretmen>Tarık</ogretmen>
+<ogrencino>2</ogrencino>
+<ad id="bizimstil2">Necip</ad>
+<soyad text="center">Koçer</soyad>
+<anneAd>Nermin</anneAd>
+<babaAd>Kemal</babaAd>
+<kardessayi>2</kardessayi>
+<sinif>11C</sinif>
+</ogrenci>
+
+</ogrenciler>

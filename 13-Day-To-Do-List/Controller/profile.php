@@ -1,0 +1,4 @@
+<?php
+
+
+view('profile/home');

@@ -1,0 +1,5 @@
+{
+  "require": {
+    "windwalker/edge": "~3.0"
+  }
+}

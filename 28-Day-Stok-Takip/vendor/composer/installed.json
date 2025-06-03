@@ -1,0 +1,51 @@
+[
+    {
+        "name": "windwalker/edge",
+        "version": "3.3.1",
+        "version_normalized": "3.3.1.0",
+        "source": {
+            "type": "git",
+            "url": "https://github.com/ventoviro/windwalker-edge.git",
+            "reference": "c69321205608ec56bc7e447fc1b4c1f12e1e1795"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://api.github.com/repos/ventoviro/windwalker-edge/zipball/c69321205608ec56bc7e447fc1b4c1f12e1e1795",
+            "reference": "c69321205608ec56bc7e447fc1b4c1f12e1e1795",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.5.9"
+        },
+        "require-dev": {
+            "windwalker/dom": "~3.0",
+            "windwalker/test": "~3.0"
+        },
+        "time": "2018-03-01T06:54:44+00:00",
+        "type": "windwalker-package",
+        "extra": {
+            "branch-alias": {
+                "dev-master": "3.x-dev"
+            }
+        },
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Windwalker\\Edge\\": ""
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "LGPL-2.0-or-later"
+        ],
+        "description": "Windwalker Edge package, a blade compatible template engine.",
+        "homepage": "https://github.com/ventoviro/windwalker-edge",
+        "keywords": [
+            "edge",
+            "engine",
+            "framework",
+            "template",
+            "windwalker"
+        ]
+    }
+]

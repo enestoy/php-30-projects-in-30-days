@@ -53,5 +53,3 @@ This repository contains 30 mini projects built with PHP, one project for each d
 - MySQL
 - Public APIs (NASA, Weather API, etc.)
 - Composer, TCPDF, PHPMailer, cURL, and more
-
-## 📂 Folder Structure (Suggested)
